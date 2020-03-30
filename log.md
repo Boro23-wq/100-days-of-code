@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 30, 2020
+### Day 1: March 30, 2020
 
 **Today's Progress**: Build a simple CatPhotoapp and played around with HTML elements.
 
