@@ -6,6 +6,12 @@
 
 **Thoughts:** Had worked out with a few primitive HTML elements. 
 
+### Day 2: April 3, 2020
+
+**Today's Progress**: Played around with CSS style and id properties and learnt the idea of overriding css selectors.
+
+**Thoughts:** Had a great time learning thhe primitive CSS that we need to understand really well.
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
