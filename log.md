@@ -12,9 +12,14 @@
 
 **Thoughts:** Had a great time learning thhe primitive CSS that we need to understand really well.
 
-### Day 3: April 4, 2020
+### Day 3: April 5, 2020
 
-**Today's Progress**: Had a fair session about Applied Visual Design, learnt how the CSS @keyframes and animation properties work, used CSS Animation to change the hover state of a button, created movement Using CSS animation, animated elements continually using an infinite animation count, animated multiple elements at variable rates, learnt how Bezier Curves work and experienced making motion more natural using a Bezier Curve.
+**Today's Progress**: Applied Accessibility: properties like tabindex to specify the order of keyboard indexes of some elements. Learnt how to build a webpage accessible to different range of users using the rules of applied accessibility.
+
+### Day 3: April 6, 2020
+
+**Today's Progress**:
+Learnt about Responsive Web Design Principles: Creating a Media Query, Make an Image Responsive and Use a Retina Image for Higher Resolution Displays.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
