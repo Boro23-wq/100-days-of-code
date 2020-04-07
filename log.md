@@ -16,10 +16,15 @@
 
 **Today's Progress**: Applied Accessibility: properties like tabindex to specify the order of keyboard indexes of some elements. Learnt how to build a webpage accessible to different range of users using the rules of applied accessibility.
 
-### Day 3: April 6, 2020
+### Day 4: April 6, 2020
 
 **Today's Progress**:
 Learnt about Responsive Web Design Principles: Creating a Media Query, Make an Image Responsive and Use a Retina Image for Higher Resolution Displays.
+
+### Day 5: April 7, 2020
+
+**Today's Progress**:
+Played around with CSS Flexbox: Used the flex-direction Property, the justify-content property, the align-items property, the flex-wrap property, the flex-shrink and grow property, the flex-basis property, the order property to rearrange items and finally the align-self property.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
