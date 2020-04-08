@@ -26,6 +26,11 @@ Learnt about Responsive Web Design Principles: Creating a Media Query, Make an I
 **Today's Progress**:
 Played around with CSS Flexbox: Used the flex-direction Property, the justify-content property, the align-items property, the flex-wrap property, the flex-shrink and grow property, the flex-basis property, the order property to rearrange items and finally the align-self property.
 
+### Day 6: April 8, 2020
+
+**Today's Progress**:
+CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of columns and rows, used grid-row to control spacing, aligned an item vertically using align-self, placed items in grid areas using the grid-area property, reduced repetition using the repeat function, limited item size using the minmax function,used media queries to create responsive layouts and finally created grids within grids. It was good learning how Css grid works.
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
