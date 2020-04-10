@@ -31,6 +31,14 @@ Played around with CSS Flexbox: Used the flex-direction Property, the justify-co
 **Today's Progress**:
 CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of columns and rows, used grid-row to control spacing, aligned an item vertically using align-self, placed items in grid areas using the grid-area property, reduced repetition using the repeat function, limited item size using the minmax function,used media queries to create responsive layouts and finally created grids within grids. It was good learning how Css grid works.
 
+### Day 7: April 09, 2020
+
+**Today's Progress**: Responsive Web Design Projects (Challenge 1) - Built a Tribute Page. (Link to the project "https://codepen.io/23Boro/pen/WNQNjzM")
+
+### Day 8: April 10, 2020
+
+**Today's Progress**: Responsive Web Design Projects (Challenge 2) - Built a responsive form uing raw HTML and CSS. (Link to the project "https://codepen.io/23Boro/pen/abvbepL")
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
