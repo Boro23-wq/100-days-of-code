@@ -39,6 +39,11 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 **Today's Progress**: Responsive Web Design Projects (Challenge 2) - Built a responsive form uing raw HTML and CSS. (Link to the project "https://codepen.io/23Boro/pen/abvbepL")
 
+### Day 9: April 11, 2020
+
+**Today's Progress**: worked on a pathfinding visualization for A* Search using the javascript client library p5.js.
+
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
