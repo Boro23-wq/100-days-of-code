@@ -43,6 +43,18 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 **Today's Progress**: worked on a pathfinding visualization for A* Search using the javascript client library p5.js.
 
+### Day 10: April 12, 2020
+
+**Today's Progress**: Built a memory game using javascript methods:
+                            * addEventListener
+                            * setAttribute
+                            * getAttribute
+                            * data-name
+                            * document.querySelector
+                            * createElement
+
+**Project in Projects reposiitory:**
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
