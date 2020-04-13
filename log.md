@@ -55,6 +55,13 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 **Project in Projects reposiitory:**
 
+### Day 11: April 13, 2020
+
+**Today's Progress**: Built a whack-a-mole game using javascript methods:
+                          -> document.querySelector                          
+                          -> addEventListener
+                          -> setInterval
+                          -> classList.add
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
