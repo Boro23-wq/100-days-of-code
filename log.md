@@ -62,6 +62,15 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
                           -> addEventListener
                           -> setInterval
                           -> classList.add
+          
+### Day 12: April 14, 2020
+
+**Today's Progress**: Built a Connect-4 game using javascript methods:   
+                        -> for loops
+                        -> addEventListener
+                        -> setInterval
+                        -> document.querySelector
+                        -> arrow functions
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
