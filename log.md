@@ -71,6 +71,13 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
                         -> setInterval
                         -> document.querySelector
                         -> arrow functions
+      
+      ***
+      
+      
+### Day 13: April 16, 2020
+
+**Today's Progress**: Built a TODO app using VanillaJS and got familiar with the Document Object Model (DOM) and its methods.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
