@@ -85,6 +85,10 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 ### Day 15: April 18, 2020
 
+**Today's Progress**: Learnt compound assignment with augmented addition, constructing strings with variables, understood string immutability, used bracket notations, manipulated arrays with shift and unshift, local scope and functions, understood how undefined value returned from a function works and many more. was a good session of basic JS.
+
+### Day 16: April 19, 2020
+
 **Today's Progress**:
 
 **Link(s) to work**
