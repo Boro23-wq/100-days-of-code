@@ -79,6 +79,14 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 **Today's Progress**: Built a TODO app using VanillaJS and got familiar with the Document Object Model (DOM) and its methods.
 
+### Day 14: April 17, 2020
+
+**Today's Progress**: Built a portfolio website showcasing a few projects that i have worked on. Worked with basic HTML and CSS.
+
+### Day 15: April 18, 2020
+
+**Today's Progress**:
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
