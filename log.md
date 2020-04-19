@@ -89,6 +89,10 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 ### Day 16: April 19, 2020
 
+**Today's Progress**: did problems on few boolean values, logical order in if else statements, the golf code problem, switch statements,  multiple identical options in switch statement and counting cards problem.\
+
+### Day 17: April 20, 2020
+
 **Today's Progress**:
 
 **Link(s) to work**
