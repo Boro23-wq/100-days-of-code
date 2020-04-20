@@ -93,6 +93,10 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 ### Day 17: April 20, 2020
 
+**Today's Progress**: Worked on a COVID-19 tracker app using React JS, hooks, material ui. the app used an api to fetch JSON data about the infected, recovered and death metrics across the world. used a promise based http client axios for fetching request.
+
+### Day 18: April 21, 2020
+
 **Today's Progress**:
 
 **Link(s) to work**
