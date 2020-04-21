@@ -97,6 +97,10 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 ### Day 18: April 21, 2020
 
+**Today's Progress**: worked onbasic javascrip counting cards problem, accessing poperties with dot and bracket notations, accessing object properties with variables, updating object properties, adding and deleting properties to a js object, testing objects for properties. (basic rehearse)
+
+### Day 19: April 22, 2020
+
 **Today's Progress**:
 
 **Link(s) to work**
