@@ -101,6 +101,10 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 ### Day 19: April 22, 2020
 
+**Today's Progress**: wrote programs about accessing nested objects in javascript, accessing nested arrays, record collections, iterate using js while loops, iterate using for loops, count fwd & bwd using for loops, nesting for loops in javascript
+
+### Day 20: April 23, 2020
+
 **Today's Progress**:
 
 **Link(s) to work**
