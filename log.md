@@ -105,6 +105,10 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 ### Day 20: April 23, 2020
 
+**Today's Progress**: basic javascript profile lookup, generating ranom fractions, generating random whole numbers, generating random whole numbers within a range, using the parseInt function, using parseInt with radix, using the ternary operator, multiple conditional ternary operators, using recursion to create countdown, using recursion to create range of numbers.
+
+### Day 21: April 24, 2020
+
 **Today's Progress**:
 
 **Link(s) to work**
