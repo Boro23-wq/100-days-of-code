@@ -109,6 +109,10 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 ### Day 21: April 24, 2020
 
+**Today's Progress**: Solved leetcode problems on minStack, Backspace String Compare and finding the middle of the linked list. (as a part of the leetcode 30 day coding challenge)
+
+### Day 22: April 25, 2020
+
 **Today's Progress**:
 
 **Link(s) to work**
