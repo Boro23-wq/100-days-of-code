@@ -113,6 +113,10 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 ### Day 22: April 25, 2020
 
+**Today's Progress**: Solved leetcode problems on last stone weight and finding the diameter of a binary tree. (as a part of the leetcode 30 day coding challenge)
+
+### Day 23: April 26, 2020
+
 **Today's Progress**:
 
 **Link(s) to work**
