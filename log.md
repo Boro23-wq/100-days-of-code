@@ -117,6 +117,10 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 ### Day 23: April 26, 2020
 
+**Today's Progress**: did a crash course on react js and learnt about classes, arrow functions, destruturing, fetching from JSON placeholder using get and post methods and also learn about App level and component level states with discovering how Routers in react work. built a fun todo app that implements all the knowledge mentioned above.
+
+### Day 24: April 27, 2020
+
 **Today's Progress**:
 
 **Link(s) to work**
