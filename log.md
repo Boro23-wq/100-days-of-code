@@ -121,6 +121,10 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 ### Day 24: April 27, 2020
 
+**Today's Progress**: Did leetcode questions on array product except self, the dp number of islands problem and valid paranthesis string problem. (as a part of 30 day leetcode challenge)
+
+### Day 25: April 28, 2020
+
 **Today's Progress**:
 
 **Link(s) to work**
