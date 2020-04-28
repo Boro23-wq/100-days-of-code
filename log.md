@@ -125,7 +125,11 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 ### Day 25: April 28, 2020
 
-**Today's Progress**:
+**Today's Progress**: did leetcode questions on BST, leftmost column index with atleast one and subarray sum problem,  and also build a fun random joke app using an api. The app fetches a random dad joke from the api using axios. The app was built with ReactJS and primitive React functional components like hooks and routers were implemented.
+
+### Day 26: April 29, 2020
+
+**Today's Progress**: 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
