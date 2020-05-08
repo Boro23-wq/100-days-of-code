@@ -131,6 +131,43 @@ CSS Grid: Creating  first CSS grid, sed CSS Grid units to change the size of col
 
 **Today's Progress**: 
 
+### Day 27: April 30, 2020
+
+**Today's Progress**: 
+
+### Day 28: May 01, 2020
+
+**Today's Progress**: Participated in the leetcode may challenge. solved the first problem which was to find a bad version between product versions. (All the versions after the bad version are also bad)
+
+### Day 29: May 02, 2020
+
+**Today's Progress**: solved the second problem of the leetcode may 30 day challenge; the question was You're given strings J representing the types of stones that are jewels, and S representing the stones you have.  Each character in S is a type of stone you have.  You want to know how many of the stones you have are also jewels.
+
+### Day 30: May 03, 2020
+
+**Today's Progress**: Solved the leetcode problem where given an arbitrary ransom note string and another string containing letters from all the magazines, write a function that will return true if the ransom note can be constructed from the magazines ; otherwise, it will return false.
+
+### Day 31: May 04, 2020
+
+**Today's Progress**: The question for the 4th day of the leetcode coding challenge was to find a positive integer num, output its complement number. The complement strategy is to flip the bits of its binary representation.
+
+### Day 32: May 05, 2020
+
+**Today's Progress**: Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1. the question for the 5th day on leetcode may coding challenge.
+
+### Day 33: May 06, 2020
+
+**Today's Progress**: Solved finding the majority element question on leetcode. The problem description says: given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2 ⌋ times.
+
+### Day 34: May 07, 2020
+
+**Today's Progress**: In a binary tree, the root node is at depth 0, and children of each depth k node are at depth k+1.
+Two nodes of a binary tree are cousins if they have the same depth, but have different parents. The question for the last day of the first week was to find if two nodes are cousins.
+
+### Day 35: May 08, 2020
+
+**Today's Progress**: Build a youtube clone app to understand the conceps of class-based coomponents and functional based components, along with the Material UI core library, and the axios API to fetch http requests. 
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
