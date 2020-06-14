@@ -168,6 +168,14 @@ Two nodes of a binary tree are cousins if they have the same depth, but have dif
 
 **Today's Progress**: Build a youtube clone app to understand the conceps of class-based coomponents and functional based components, along with the Material UI core library, and the axios API to fetch http requests. 
 
+## Day 35-57 : May 09, 2020 to May 31, 2020
+
+**Progress**: Took part in the May leetcode challenge. Everyday we get to solve a programming question and the solutions should be submitted within 24 hours to be evaluated. 
+
+## Day 58-88 : June 01, 2020 to June 30, 2020
+
+**Progress**: Took part in the June leetcode challenge. Everyday we get to solve a programming question and the solutions should be submitted within 24 hours to be evaluated. 
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
